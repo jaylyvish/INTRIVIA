@@ -6,4 +6,7 @@
 ## Kesan Pesan INTRIVIA Sejauh Ini
 [bagus]
 ## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini
-[keren]git add .
+[keren]
+
+## harapan kuliah 
+[bisa hidup]
